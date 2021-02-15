@@ -1,0 +1,7 @@
+headers = {
+    'user-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.18363',
+    'cookie' :"ALF=1595083589; _T_WM=79076803891; WEIBOCN_FROM=1110006030; SCF=AtkHvs18_PCV56YYxCggAcZJiBVzjJ84mt_gfl-0ZGtc5FesudEmCIMzdotgyWrPviKlYaRAtZLhwUwbHtUG0X4.; SUB=_2A25z7_rkDeRhGeNJ6FUQ9SzJzjWIHXVRE4asrDV6PUJbktAKLUTykW1NS8A5CaCKi9lkykPba23seui2ArexWRMH; SUBP=0033WrSXqPxfM725Ws9jqgMF55529P9D9WhgnYQ1yFWUs5SAYwseJnF.5JpX5K-hUgL.Fo-Ne0MpSKzfSK.2dJLoIpnLxKqLBo5LBoBLxK-L1hqL1-i1K02Neo.t; SUHB=0XDV_3i8plAos7; SSOLoginState=1592494773; MLOGIN=1; M_WEIBOCN_PARAMS=luicode%3D20000174%26uicode%3D20000174"
+
+    #在这写上你的cookies，否则无法运行
+}
+
